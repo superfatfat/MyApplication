@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">胖胖的APP</string>
+    <string name="text_userName">請輸入帳號</string>
+    <string name="text_userPW">請輸入密碼</string>
+    <string name="text_userLogin">登入</string>
+</resources>
